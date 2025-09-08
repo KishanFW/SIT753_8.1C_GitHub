@@ -64,10 +64,11 @@ pipeline {
             steps {
                 echo '''
                 Task: Release the verified application into the production environment.
-                Tool: Ansible (used again for production deployment).
+                Tool: Ansible (used again for production deployment) .
                 '''
             }
         }
 
     }
 }
+
