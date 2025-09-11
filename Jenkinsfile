@@ -46,6 +46,7 @@ pipeline {
                 echo '''
                 Task: Push the application package to a staging environment that mirrors production.
                 Tool: Ansible (automation and deployment tool).
+                
                 '''
             }
         }
@@ -71,4 +72,5 @@ pipeline {
 
     }
 }
+
 
