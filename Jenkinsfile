@@ -8,6 +8,7 @@ pipeline {
                 echo '''
                 Task: Compile and package the source code into an executable format.
                 Tool: Maven (commonly used build automation tool).
+                
                 '''
             }
         }
@@ -72,5 +73,6 @@ pipeline {
 
     }
 }
+
 
 
